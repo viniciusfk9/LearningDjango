@@ -18,6 +18,7 @@
 .idea/**/uiDesigner.xml
 
 .idea/*
+*.sqlite3
 
 
 # Gradle:
